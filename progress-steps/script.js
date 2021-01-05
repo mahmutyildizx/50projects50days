@@ -1,6 +1,6 @@
 const progressLine = document.querySelector("#progressLine");
 const previousButton = document.querySelector("#previousButton");
-const nextButton = document.querySelector("#previousButton");
+const nextButton = document.querySelector("#nextButton");
 const progressCircles = document.querySelectorAll(".progressCircle");
 
 let currentActive = 1;
